@@ -37,7 +37,7 @@
 - 🐍 Strong foundation in **Python, Data Preprocessing & Model Evaluation**
 - 📊 Passionate about building **data-driven, real-world solutions**
 - 🤝 Open to **internships, research opportunities & collaborative projects**
-- 📧 Reach me at **swatichoudhary011x@gmail.com**
+- 📧 Reach me at **nishantkumar1962@gmail.com**
 
 ---
 
